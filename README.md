@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sergey 👋
 
-<!--
-**pythoncoderc-rgb/pythoncoderc-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Python and C++ developer from Ukraine.
 
-Here are some ideas to get you started:
+### 💻 What I do
+- Write simple Python scripts and tools
+- Learn C++ and build console applications
+- Work on pet projects to improve my skills
+- Build my freelance portfolio step-by-step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies
+- Python (basic)
+- C++ (basic)
+- Git & GitHub
+
+### 🌱 Currently learning
+- Python OOP
+- Web scraping
+- Algorithms and data structures
+
+### 🎯 Goals
+- Get my first freelance projects
+- Grow as a developer
+- Build useful projects
+
+### 📫 Contact
+- GitHub — you’re already here 🙂

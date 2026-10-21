@@ -13,10 +13,10 @@ I build practical software tools with **Python**, **C++**, and the **Blender Pyt
 | Project | Stack | What it demonstrates |
 |---|---|---|
 | [Modifier State Vault — Showcase](https://github.com/pythoncoderc-rgb/modifier-state-vault-showcase) | Blender · Python | Product workflow, release QA, documentation, UX-focused tooling |
-| [Python Calculator](https://github.com/pythoncoderc-rgb/python-calculator) | Python | Package structure, Decimal arithmetic, CLI, tests, CI |
 | [File Organizer CLI](https://github.com/pythoncoderc-rgb/python-file-organizer) | Python | Filesystem automation, dry-run safety, collision handling, tests |
-| [Smart Home Controller](https://github.com/pythoncoderc-rgb/smart-home-cpp) | C++17 | Bitmasks, class design, CMake, tests, CI |
 | [Log Analyzer](https://github.com/pythoncoderc-rgb/cpp-log-analyzer) | C++17 | Parsing, file I/O, filtering, aggregation, CMake, tests |
+| [Smart Home Controller](https://github.com/pythoncoderc-rgb/smart-home-cpp) | C++17 | Bitmasks, class design, CMake, tests, CI |
+| [Python Calculator](https://github.com/pythoncoderc-rgb/python-calculator) | Python | Package structure, Decimal arithmetic, CLI, tests, CI |
 
 ## What I focus on
 
